@@ -1,0 +1,7 @@
+export const AUTH = '/auth'
+export const QUIZ = 'quiz'
+export const GAME = 'game'
+export const PLAYER = '/player'
+export const LEADERBOARD = '/leaderboard'
+export const SUBMIT_ANSWER = '/submit-answer'
+export const PUBLIC = 'public'
